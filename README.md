@@ -7,7 +7,7 @@ Red light: 4000ms
 Yellow light: 500ms
 Green light: 3000ms
 
-![Demo](./Screenshots/1.png)
+![Demo](./Screenshots/1.gif)
 
 ## Getting Started
 
